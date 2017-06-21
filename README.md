@@ -48,6 +48,10 @@ Electron开发环境部署 - Chris_D - 博客园 http://www.cnblogs.com/chris-d-
 
 POI Word 模板 文字 图片 替换 - huangqiqing123 - ITeye技术网站 http://huangqiqing123.iteye.com/blog/1927761
 
+redis 在windows 下的安装和使用 http://www.tuicool.com/articles/36nmIrn
+
+PHP7运行环境搭建（Windows7）http://blog.csdn.net/tdcqfyl/article/details/52351140
+
 ##页面展示类##
 
 顺丰优选触屏版 http://m.sfbest.com/
@@ -65,4 +69,10 @@ jQuery全屏滚动插件fullPage.js演示http://www.dowebok.com/demo/2014/77/
 CSS3打造美丽的密码强度指示 http://www.17sucai.com/preview/184396/2014-08-25/password-strength-meter/index.html
 
 仿YouTube左侧弹出菜单http://www.17sucai.com/preview/67981/2013-12-23/%E4%BB%BFYouTube%E5%B7%A6%E4%BE%A7%E5%BC%B9%E5%87%BA%E8%8F%9C%E5%8D%95/index.html
+
+查快递 http://m.kuaidi100.com/cmb/
+
+团购首页http://mobiledemoapp.applinzi.com/shopping/
+
+移动端布局示例 http://ximan.github.io/mobile-layout-example/
 
