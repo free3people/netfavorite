@@ -52,6 +52,14 @@ redis 在windows 下的安装和使用 http://www.tuicool.com/articles/36nmIrn
 
 PHP7运行环境搭建（Windows7）http://blog.csdn.net/tdcqfyl/article/details/52351140
 
+基于vue-cli快速构建  http://www.jianshu.com/p/2769efeaa10a
+
+HTML5在线编辑器-在线代码 - 手册网 http://www.shouce.ren/code/js
+
+Nginx配置详解 http://www.cnblogs.com/knowledgesea/p/5175711.html
+
+【vue系列之一】使用vue脚手架工具搭建vue-webpack项目 - TJYoung - 博客园 http://www.cnblogs.com/tjyoung/p/6832234.html
+
 ##页面展示类##
 
 顺丰优选触屏版 http://m.sfbest.com/
@@ -81,4 +89,10 @@ CSS3打造美丽的密码强度指示 http://www.17sucai.com/preview/184396/2014
 下拉刷新演示 http://www.zhangxinxu.com/GitHub/drag-loading/demo/example.html
 
 梦想云管理平台 https://a.mxyun.com/
+
+腾讯 Web 前端团队 http://alloyteam.github.io/
+
+B-JUI 前端管理框架 http://demo.b-jui.com
+
+微信小程序商城 https://github.com/lin-xin/wxapp-mall
 
