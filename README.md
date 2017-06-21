@@ -60,6 +60,12 @@ Nginx配置详解 http://www.cnblogs.com/knowledgesea/p/5175711.html
 
 【vue系列之一】使用vue脚手架工具搭建vue-webpack项目 - TJYoung - 博客园 http://www.cnblogs.com/tjyoung/p/6832234.html
 
+前端构建工具gulpjs的使用介绍及技巧 http://www.cnblogs.com/2050/p/4198792.html
+
+LINUX中常用操作命令 http://www.daniubiji.cn/archives/25
+
+手机网易网 http://3g.163.com/touch/all?dataversion=A&version=v_standard
+
 ##页面展示类##
 
 顺丰优选触屏版 http://m.sfbest.com/
@@ -95,4 +101,8 @@ CSS3打造美丽的密码强度指示 http://www.17sucai.com/preview/184396/2014
 B-JUI 前端管理框架 http://demo.b-jui.com
 
 微信小程序商城 https://github.com/lin-xin/wxapp-mall
+
+智库_手机新浪网 http://news.sina.cn/zhiku?vt=4&cid=56266
+
+太平洋汽车网_精准报价_专业评测_汽车世界,由此精彩 http://m.pcauto.com.cn/
 
