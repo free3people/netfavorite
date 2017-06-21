@@ -76,3 +76,9 @@ CSS3打造美丽的密码强度指示 http://www.17sucai.com/preview/184396/2014
 
 移动端布局示例 http://ximan.github.io/mobile-layout-example/
 
+开源商城 | B2C商城http://www.tp-shop.cn/download.html
+
+下拉刷新演示 http://www.zhangxinxu.com/GitHub/drag-loading/demo/example.html
+
+梦想云管理平台 https://a.mxyun.com/
+
