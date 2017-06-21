@@ -39,11 +39,12 @@ jQuery技巧http://www.cnblogs.com/liulinjie/p/5667866.html
 
 
 ##页面展示类##
+
 顺丰优选触屏版 http://m.sfbest.com/
 
 甫田网http://www.fieldschina.com/zh/index.html
 
-【四喜馄饨团购】长沙四喜馄饨代金券团购优惠券(图)-长沙美团网http://i.meituan.com/changsha/deal/37700731.html
+长沙四喜馄饨代金券团购优惠券(图)-长沙美团网http://i.meituan.com/changsha/deal/37700731.html
 
 HTML5资源教程 | 分享HTML5开发资源和开发教程 http://www.html5tricks.com
 
