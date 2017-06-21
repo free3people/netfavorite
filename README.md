@@ -36,7 +36,17 @@ Git命令文本手册http://www.cnblogs.com/liulinjie/p/5659319.html
 
 jQuery技巧http://www.cnblogs.com/liulinjie/p/5667866.html
 
+h5桌面应用zuoyanart/nodewebkit--GitHub--   https://github.com/zuoyanart/nodewebkit
 
+h5桌面应用Electron安装 - 青羽 - 博客园 http://www.cnblogs.com/tenghoo/p/install_electron_and_quick_start.html
+
+Spring常用注解 - 孤傲苍狼 - 博客园 http://www.cnblogs.com/xdp-gacl/p/3495887.html
+
+Electron实战：创建ELectron开发的window应用安装包http://blog.csdn.net/w342916053/article/details/51323634
+
+Electron开发环境部署 - Chris_D - 博客园 http://www.cnblogs.com/chris-d-nerd/p/5648317.html
+
+POI Word 模板 文字 图片 替换 - huangqiqing123 - ITeye技术网站 http://huangqiqing123.iteye.com/blog/1927761
 
 ##页面展示类##
 
