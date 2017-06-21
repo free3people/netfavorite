@@ -7,6 +7,8 @@ HTML5终极备忘大全（图片版+文字版） « 张鑫旭-鑫空间-鑫生�
 SVN使用教程总结 - armyfai - 博客园http://www.cnblogs.com/armyfai/p/3985660.html<br/>
 Stream上传插件 - 基于Flash和Html5的WEB流式文件上传插件http://www.twinkling.cn/ <br/>
 html5 图片上传，支持图片预览、压缩、及进度显示，兼容IE6+及标准浏览器 - Devin Liu - 博客园http://www.cnblogs.com/devin87/p/web-uploader-image.html<br/>
+高德地图API - 标签 - 酸奶小妹 - 博客园http://www.cnblogs.com/milkmap/tag/%E5%9C%B0%E5%9B%BEAPI/<br/>
+Class:服务类/Geolocation - 百度地图http://developer.baidu.com/map/reference/index.php?title=Class:%E6%9C%8D%E5%8A%A1%E7%B1%BB/Geolocation<br/>
 
 
 ##页面展示类##<br/>
