@@ -15,7 +15,9 @@ Redis缓存服务搭建及实现数据读写 - Eric.Chen - 推酷http://www.tuic
 java操作redis数据库实例（redis集群）http://blog.csdn.net/junlong750/article/details/51362423<br/>
 拾取坐标系统 http://api.map.baidu.com/lbsapi/getpoint/index.html <br/>
 地图API示例http://developer.baidu.com/map/jsdemo.htm#a1_2 <br/>
-
+移动端Web页面问题解决方案 - MrJaden - 博客园http://www.cnblogs.com/liulinjie/p/5663015.html <br/>
+Git命令文本手册http://www.cnblogs.com/liulinjie/p/5659319.html<br/>
+jQuery技巧http://www.cnblogs.com/liulinjie/p/5667866.html<br/>
 
 
 
