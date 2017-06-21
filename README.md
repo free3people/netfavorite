@@ -61,3 +61,8 @@ HTML5资源教程 | 分享HTML5开发资源和开发教程 http://www.html5trick
 Swiper demo  http://www.swiper.com.cn/demo/28-parallax.html
 
 jQuery全屏滚动插件fullPage.js演示http://www.dowebok.com/demo/2014/77/
+
+CSS3打造美丽的密码强度指示 http://www.17sucai.com/preview/184396/2014-08-25/password-strength-meter/index.html
+
+仿YouTube左侧弹出菜单http://www.17sucai.com/preview/67981/2013-12-23/%E4%BB%BFYouTube%E5%B7%A6%E4%BE%A7%E5%BC%B9%E5%87%BA%E8%8F%9C%E5%8D%95/index.html
+
