@@ -67,7 +67,11 @@ LINUX中常用操作命令 http://www.daniubiji.cn/archives/25
 手机网易网 http://3g.163.com/touch/all?dataversion=A&version=v_standard
 
 Vue.js 示例项目 · 简易留言板 https://github.com/kenberkeley/vue-demo
+python基础教程 https://www.liaoxuefeng.com/wiki/0014316089557264a6b348958f449949df42a6d3a2e542c000/001431608990315a01b575e2ab041168ff0df194698afac000
 
+离线地图应用例子http://www.cnblogs.com/Joanna-Yan/p/5822231.html
+
+高德地图地址解析http://zhaoziang.com/amap/zero_8_1.html
 ##页面展示类##
 
 顺丰优选触屏版 http://m.sfbest.com/
