@@ -72,6 +72,9 @@ python基础教程 https://www.liaoxuefeng.com/wiki/0014316089557264a6b348958f44
 离线地图应用例子http://www.cnblogs.com/Joanna-Yan/p/5822231.html
 
 高德地图地址解析http://zhaoziang.com/amap/zero_8_1.html
+
+application/json 四种常见的 POST 提交数据方式
+http://blog.csdn.net/tycoon1988/article/details/40080691
 ##页面展示类##
 
 顺丰优选触屏版 http://m.sfbest.com/
